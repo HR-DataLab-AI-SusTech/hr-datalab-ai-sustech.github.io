@@ -113,7 +113,7 @@ div.head h2 {
   margin-bottom: 1.5em;
 }
 
-/** Geonovum Logo *************************************************************/
+/** HR Logo *************************************************************/
 
 .head p:not(.copyright):first-child {
   margin: 0;
@@ -910,9 +910,6 @@ td {
   text-align: start;
 }
 
-/* Thijs Brentjens Geonovum add a thin border for tables as a default  */
-/* TODO :fix issue with localstyle for https://docs.geostandaarden.nl/md/mdprofiel-iso19115/ */
-
 /*table, tr, td, th {
     border: none;
 }
@@ -1052,8 +1049,7 @@ table.data img {
   vertical-align: middle;
 }
 
-/* table.simple toegevoegd op 11-10-2023 door Gerard Wolbers, Geonovum */
-/* Het is grotendeels overgenomen uit respec-mainstyle, een stijldefinitie dat door respec in de bestanden wordt gegenereerd. */
+/* table.simple */
 
 table.simple {
   border-spacing: 0;
