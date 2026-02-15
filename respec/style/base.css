@@ -125,8 +125,8 @@ div.head h2 {
   margin: 0.4rem 0 0.2rem .4rem;
 }
 
-.head a:hover > img[src*="logos/Geonovum"],
-.head a:focus > img[src*="logos/Geonovum"] {
+.head a:hover > img[src*="logos/HR-Logo"],
+.head a:focus > img[src*="logos/HR-Logo"] {
   opacity: .8;
 }
 
