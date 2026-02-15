@@ -569,7 +569,7 @@ a[href]:not(.leaflet-top .leaflet-left):active {
   border-color: #c00;
 }
 
-/* Backout above styling for Geonovum logo */
+/* Backout above styling for HR-Logo */
 .head p:not(.copyright) > a,
 .head > a:first-child {
   border: none;
