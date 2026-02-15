@@ -607,15 +607,14 @@ figure object {
 }
 
 /*
-Thijs Brentjens Geonovum: a fix to show images that get a width=0 and height=0 by ReSpec and thus are hidden
-See https://github.com/Geonovum/respec/issues/153
+HR-LOGO FIX
  */
 .figure img, .sidefigure img, figure img, .figure object, .sidefigure object, figure object {
  /*height: 100%;*/
  width: auto;
 }
 
-/* end customization Geonovum fix */
+/* end customization HR-LOGO fix */
 
 .figure pre,
 .sidefigure pre,
